@@ -1,1 +1,14 @@
-
+(" Hello world this is a build your own adventure project with 5 question")
+(" What is the setting 1 back yard or 2 back yard")
+if 1: print("activate backyard features.") # ty
+elif 2: print("activate frontyard features.")
+(" The character 1 cat or 2 dog ")
+if 1: print("activate cat features.")
+elif 2: print("activate dog features.")
+(" How many paths or endings do you want 2")
+if 1: print(" activate path or ending 1")
+elif 2: print("activate path or ending 2")
+(" What is the core conflict the player must resolve")
+("Best food bowl 1, nap spot 2")
+if 1: print("activate food bowl.")
+elif 2: print("activate nap spot.")
